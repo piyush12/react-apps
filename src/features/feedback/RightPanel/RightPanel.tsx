@@ -58,7 +58,7 @@ function RightPanel({
           </span>
         </div>
 
-        <FButton variant='primary'>+ Add Feedback</FButton>
+        <FButton variant='primary' href="/feedback/add-feedback">+ Add Feedback</FButton>
       </SuggestionBarStyles>
 
       {children}
