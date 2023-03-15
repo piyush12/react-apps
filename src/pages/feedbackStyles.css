@@ -1,0 +1,36 @@
+:root {
+  --feedback-gray-blue-800: #373f68;
+  --feedback-gray-blue-600: #3a4374;
+  --feedback-gray-blue-500: #647196;
+  --feedback-gray-blue-300: #cfd7ff;
+  --feedback-gray-blue-200: #f2f4ff;
+  --feedback-gray-blue-100: #f7f8fd;
+
+  --feedback-blue-400: #4661e6;
+  --feedback-blue-400-hover: #7c91f9;
+  --feedback-blue-300: #62bcfa;
+
+  --feedback-pink: #ad1fea;
+  --feedback-pink-hover: #c75af6;
+  --feedback-orange: #f49f85;
+
+  --feedback-link-hover: #8397f8;
+  --link-light: #f2f4fe;
+  --separator: #8c92b3;
+  --feedback-gray-blue-600-hover: #656EA3;
+  --feedback-danger-variant:#D73737;
+}
+
+body {
+  font-family: "Jost", sans-serif;
+  background-color: var(--feedback-gray-blue-100);
+}
+
+textarea, input{
+  font-family: "Jost", sans-serif;
+}
+
+
+.wrapper {
+  margin-top: 3rem;
+}
